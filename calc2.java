@@ -497,7 +497,8 @@ class calc2
             rs = rs/n5;
         }
         }
-        /*System.out.println("x = "+x);
+        /* THESE WHERE THE CHECKS USED TO TEST THE PROGRAM WHEN I WAS PROGRAMING IT
+        System.out.println("x = "+x);
         System.out.println("a = "+a);
         System.out.println("b = "+b);
         System.out.println("c = "+c);
